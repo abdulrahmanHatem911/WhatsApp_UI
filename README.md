@@ -1,4 +1,4 @@
-# WhatS App UI
+# Whatsapp UI
 
 ![1-whatsapp](https://user-images.githubusercontent.com/88144060/163674926-75ffc358-f10e-4948-8fcd-0cb1280dc66a.png)
 
